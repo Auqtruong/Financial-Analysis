@@ -1,5 +1,5 @@
 # Description
-- This is a small project to analyze some of Cabrera's past financial transactions using Python, Flask, and the built-in SQLite3 library.
+- This is a small project to analyze some of Cabrera's past financial transactions using Python, HTML, Flask, and the built-in SQLite3 library.
 
 # How to Run
 1. Clone GitHub Repository using HTTPS <br>![](image.png)
