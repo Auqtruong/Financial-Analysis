@@ -2,7 +2,7 @@
 - This is a small project to analyze some of Cabrera's past financial transactions using Python, Flask, and the built-in SQLite3 library.
 
 # How to Run
-1. Clone GitHub Repository using HTTPS ![](image.png)
+1. Clone GitHub Repository using HTTPS <br>![](image.png)
 2. Create/Open the directory where you want the cloned repository
 3. Enter in `git clone https://github.com/Auqtruong/Cabrera-Homework.git` into the IDE terminal
 4. Use the command `Ctrl+Shift+P` to open the Command Pallete
